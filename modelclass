@@ -2,4 +2,5 @@ public class midelClass
 {
 public string UserName {get;set}
 public string password {get;set;}
+public string address{get;set;}
 }
